@@ -3,3 +3,4 @@ This text file is created to practice git command.
 Now I write this line from GitHub.
 This is write from feature1
 This line is for conflict(main).
+This line is write to make conflict.
