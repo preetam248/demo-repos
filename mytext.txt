@@ -1,2 +1,3 @@
 This is a text.
 This text file is created to practice git command.
+Now I write this line from GitHub.
